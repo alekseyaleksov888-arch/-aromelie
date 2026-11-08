@@ -1,0 +1,164 @@
+[
+  {
+    "brand": "Roja Parfums",
+    "name": "Elysium",
+    "price": 220,
+    "notes": "верх: грейпфрут, лимон, бергамот, лайм, чабрец, гальбанум, артемизия; сердце: ветивер, ягоды можжевельника, чёрная смородина, яблоко, кедр, розовый перец, нагармота, ландыш, жасмин, роза; база: серая амбра, кожа, ваниль, бензоин, лабданум",
+    "photo": "photos/elysium.jpg",
+    "bg": "#ffffff",
+    "stock": true
+  },
+  {
+    "brand": "Marc-Antoine Barrois",
+    "name": "Ganymede",
+    "price": 220,
+    "notes": "верх: шафран, итальянский мандарин; сердце: китайский османтус, бессмертник, лист фиалки; база: минеральные ноты, замша, акигаловуд, мускус, кедр, пачули",
+    "photo": "photos/ganymede.jpg",
+    "bg": "#f6f5f6",
+    "stock": true
+  },
+  {
+    "brand": "Xerjoff",
+    "name": "Naxos",
+    "price": 180,
+    "notes": "верх: лаванда, бергамот, лимон; сердце: мёд, корица, кашмеран, жасмин самбак; база: лист табака, ваниль, бобы тонка",
+    "photo": "photos/naxos.jpg",
+    "bg": "#ffffff",
+    "stock": true
+  },
+  {
+    "brand": "Initio",
+    "name": "Rehab",
+    "price": 250,
+    "notes": "верх: лаванда, бергамот; сердце: кедр, ветивер, пачули; база: сандал, мускус, гваяк",
+    "photo": "photos/rehab.jpg",
+    "bg": "#f5f5f3",
+    "stock": true
+  },
+  {
+    "brand": "Nishane",
+    "name": "Hacivat",
+    "price": 180,
+    "notes": "верх: ананас, грейпфрут, бергамот; сердце: кедр, пачули, жасмин; база: дубовый мох, древесные ноты",
+    "photo": "photos/hacivat.jpg",
+    "bg": "#ffffff",
+    "stock": true
+  },
+  {
+    "brand": "Parfums de Marly",
+    "name": "Althaïr",
+    "price": 250,
+    "notes": "верх: корица, цветок апельсина, кардамон, бергамот; сердце: бурбонская ваниль, элеми; база: пралине, мускус, амброксан, бобы тонка, гваяк, засахаренный миндаль",
+    "photo": "photos/althair.jpg",
+    "bg": "#f2f1f2",
+    "stock": true
+  },
+  {
+    "brand": "Amouage",
+    "name": "Guidance",
+    "price": 300,
+    "notes": "верх: груша, лесной орех, олибанум; сердце: османтус, роза, шафран, жасмин самбак; база: сандал, ваниль, акигаловуд, серая амбра, лабданум",
+    "photo": "photos/guidance.jpg",
+    "bg": "#f2f2f2",
+    "stock": true
+  },
+  {
+    "brand": "Emporio Armani",
+    "name": "Stronger With You Intensely",
+    "price": 100,
+    "notes": "верх: розовый перец, можжевельник, фиалка; сердце: тоффи, корица, лаванда, шалфей; база: ваниль, амбра, бобы тонка, замша",
+    "photo": "photos/stronger-with-you-intensely.jpg",
+    "bg": "#ffffff",
+    "stock": true
+  },
+  {
+    "brand": "Ex Nihilo",
+    "name": "The Hedonist",
+    "price": 350,
+    "notes": "верх: бергамот, имбирь; сердце: акигаловуд, кедр; база: ветивер, бобы тонка, мускус",
+    "photo": "photos/the-hedonist.jpg",
+    "bg": "#e9e8e6",
+    "stock": true
+  },
+  {
+    "brand": "Chloé",
+    "name": "Cedrus Intense",
+    "price": 280,
+    "notes": "верх: бергамот, зелёные ноты; сердце: кожа; база: австралийский сандал, китайский кедр, ветивер, амбра",
+    "photo": "photos/cedrus-intense.jpg",
+    "bg": "#ffffff",
+    "stock": true
+  },
+  {
+    "brand": "Initio",
+    "name": "Oud for Greatness Neo",
+    "price": 250,
+    "notes": "уд, пихта, лаванда, шафран, бергамот",
+    "photo": "photos/oud-for-greatness-neo.jpg",
+    "bg": "#f7f8f8",
+    "stock": true
+  },
+  {
+    "brand": "Chanel",
+    "name": "Bleu de Chanel Eau de Parfum",
+    "price": 150,
+    "notes": "верх: грейпфрут, лимон, мята, бергамот, розовый перец, альдегиды, кориандр; сердце: имбирь, жасмин, мускатный орех, дыня; база: ладан, амбра, кедр, сандал, амбервуд, пачули, лабданум",
+    "photo": "photos/bleu-de-chanel-eau-de-parfum.jpg",
+    "bg": "#ffffff",
+    "stock": true
+  },
+  {
+    "brand": "Kilian",
+    "name": "Good Girl Gone Bad",
+    "price": 400,
+    "notes": "верх: османтус, персик, нероли, бергамот, мандарин, корица; сердце: индийская тубероза, жасмин, нарцисс, майская роза; база: амбра, кедр, сандал, ветивер, пачули",
+    "photo": "photos/good-girl-gone-bad.jpg",
+    "bg": "#ffffff",
+    "stock": true
+  },
+  {
+    "brand": "Les Liquides Imaginaires",
+    "name": "Blanche Bête",
+    "price": 230,
+    "notes": "верх: молоко, амбретта, Mystikal; сердце: тубероза, жасмин, ладан, Mahonial; база: ваниль, мускус, бобы тонка, какао",
+    "photo": "photos/blanche-bete.jpg",
+    "bg": "#ffffff",
+    "stock": true
+  },
+  {
+    "brand": "Hormone Paris",
+    "name": "This Is Not Testosterone",
+    "price": 200,
+    "notes": "верх: кардамон, грейпфрут, корица; сердце: гваяк, ваниль, жасмин; база: амбервуд, сандал, пралине, мускус",
+    "photo": "photos/this-is-not-testosterone.jpg",
+    "bg": "#ececec",
+    "stock": true
+  },
+  {
+    "brand": "Jo Malone",
+    "name": "Wood Sage & Sea Salt",
+    "price": 150,
+    "notes": "морская соль, шалфей, грейпфрут, амбретта, морские водоросли",
+    "photo": "photos/wood-sage-sea-salt.jpg",
+    "bg": "#ffffff",
+    "stock": true
+  },
+  {
+    "brand": "Tom Ford",
+    "name": "Eau d’Ombré Leather",
+    "price": 180,
+    "notes": "верх: кардамон, имбирь, кориандр; сердце: ваниль, кожа; база: амброфикс",
+    "photo": "photos/eau-dombre-leather.jpg",
+    "bg": "#ffffff",
+    "stock": true
+  },
+  {
+    "brand": "Brunello Cucinelli",
+    "name": "Pour Femme",
+    "price": 200,
+    "notes": "верх: калабрийский бергамот, сицилийский мандарин, розовый перец; сердце: цветок апельсина, каштан; база: ветивер, амброксан супер, мускус, атласский кедр, вирджинский кедр, олибанум",
+    "photo": "photos/pour-femme.jpg",
+    "bg": "#e1e1e1",
+    "stock": true
+  }
+]
